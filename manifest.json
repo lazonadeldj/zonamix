@@ -1,0 +1,20 @@
+{
+  "name": "La Zona Del Dj - Suena Bien",
+  "short_name": "La Zona Del Dj",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/0ySxmdZw/logodiscogira.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/nqFLHmJd/logoquegira.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
